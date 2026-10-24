@@ -1,0 +1,6 @@
+{
+  "name": "AI & Us - College AI Impact Dashboard",
+  "description": "An interactive academic research dashboard analyzing the impact of Artificial Intelligence on college students' learning, academic performance, cognitive habits, and ethics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
